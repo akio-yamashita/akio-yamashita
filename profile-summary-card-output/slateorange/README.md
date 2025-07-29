@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/akio-yamashita/akio-yamashita/main/profile-summary-card-output/slateorange/4-productive-time.svg)
-```
-
-    
